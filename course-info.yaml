@@ -5,9 +5,4 @@ summary: Este é um curso de algoritmos criado pela comunidade Kotlinautas total
   em português voltado para o aprendizado da linguagem de programação Kotlin.
 programming_language: Kotlin
 content:
-- Estrutura Sequencial
-- Funções
-- Estrutura Condicional
-- Estrutura de Repetição
-- Vetores
-- Matrizes
+- Algoritmos

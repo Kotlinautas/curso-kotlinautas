@@ -15,7 +15,7 @@ Iniciamos este projeto para deixarmos nossa contribuição no [**Hacktuberfest 2
   * Estrutura Sequêncial
   * Funções
   * Estrutura Condicional
-  * Estruturas de Repetição
+  * Estrutura de Repetição
   * Vetores
   * Matrizes
 
