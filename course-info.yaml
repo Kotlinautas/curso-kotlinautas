@@ -1,8 +1,13 @@
 type: marketplace
-title: Curso Kotlinautas
-language: English
-summary: Este é um curso criado pela comunidade Kotlinautas totalmente em português
-  voltado para o aprendizado da linguagem de programação Kotlin.
+title: Curso de Algoritmo Kotlinautas
+language: Portuguese
+summary: Este é um curso de algoritmos criado pela comunidade Kotlinautas totalmente
+  em português voltado para o aprendizado da linguagem de programação Kotlin.
 programming_language: Kotlin
 content:
-- Algoritmos
+- Estrutura Sequencial
+- Funções
+- Estrutura Condicional
+- Estrutura de Repetição
+- Vetores
+- Matrizes
