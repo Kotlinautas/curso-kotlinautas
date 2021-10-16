@@ -78,6 +78,90 @@
               "description_text" : "### Elaborado por\n> **Nome**: Bruno Lopes\n\n> **Email**: bruno.lopes@unifor.br\n\n> **Criado em**: 16/10/2021 \n\n\n### Exercício\n\nEscreva um programa em Kotlin que receba dois números, calcule e mostre a **subtração** do primeiro número pelo segundo.\n\nO código que representa a solução deve ser escrito na função **sub** presente no arquivo _Task.kt_.\n",
               "description_format" : "MD",
               "task_type" : "edu"
+            },
+            {
+              "id" : 917733664,
+              "name" : "profbrunolopes-ex02",
+              "files" : {
+                "src/Task.kt" : {
+                  "name" : "src/Task.kt",
+                  "placeholders" : [
+                    {
+                      "offset" : 612,
+                      "length" : 32,
+                      "possible_answer" : "lq4/DlyIDpghij04Epdv+sMdqRxmQSEVD8b5gMfAgR8=",
+                      "placeholder_text" : "A solução deve ser escrita AQUI!"
+                    }
+                  ],
+                  "is_visible" : true,
+                  "text" : "bIyfvvNc8IypKWb5+nqs3TMtedqVmT3tYnIzBtZpnkBDvZPflEFZQVe4PifxZj9M+EsLWFamTVcpj3KVM7YD8UOtu6PWcm7ynlmVucLySTOIgctub972Fi9Cy+3qCLn9fc1PC5dWjzRsSr9j5Fh5mlwCo5xjGnwC0sy5fRCloDybO7kV1oQgwk1aFbm9Nt5uVfkTeiALYNrTOFhGhpu0vw+BIS1x4puH7vh1Okn7LZKTARPsHxFbvchOn2qpnYsGm3omgMJWkbZ5wrzub6OOX7cyfsQWZs9ou0wAGIl7W4UIkzh8TNMc5fCj6S8DNQj0EfSnZtYR74D8OwgN81jp82dAXPC1gR/oaS0BXRgXyTugu4KKl+AB+HpWCbK0Eht6CELECMxuGwC2d2Hos/suslMjJVWOKab5S20JbBbhCRKoBiRTm/LMIBGzkVdOS3rzM2aSrf9HjXwDHHOv473HAt+Xtky1j1tTRY8ULbvEAFIAJVNHGNowT1uU5NIvIzls2GpCUvIIKWSukXgl8OD8WIxF3TgsJcenLRerv895Y64PGQb9YMZaD+b8+ruFaJ9aOrg8cr6m1S5sRSd1jt7qzkfCFtYoAOCUVc5+La2JdFUPkf2hQ4QFPY/QGaw19CxbyvKUPz3DFy+V2m2dgkrqH+/yYvyCjbgznh8LI9lTYxlwXGNySzU26R2OHICwHVNoN9GzoJr5/5LbQs3Q602aKaS+y9a1iVTa0Q1aHKZ4xO9criHOhS+UUDi5wzBKnnCLFiub5gE7vWR3AIylL42Zn7dbd+a4IGeuJBtKIkTFIGNuDZY6CZCznt2oSNW5mhniJZheV7rR0OCIqvLx4v9A6RVih+9EjWf/gDeHZ3ANXoIhwhEP3qxnZQIa5teo0yRA"
+                },
+                "test/Tests.kt" : {
+                  "name" : "test/Tests.kt",
+                  "placeholders" : [ ],
+                  "is_visible" : false,
+                  "text" : "ITs8Nv8EH6QWJG5nufD7nCbrLPoZNTYAX8EbQHppKy+TR7uFhZF7JnSL5/nnFJttOoUbKzjzjKMy0T1IKOzzSCd1hYJ/rLOohU/eobM6+tx5osVhw1SyAvHBglbiWCQj/k3IsZDPaMVtYGhSPI/Vlixe05WKeurNBTIUg5w0WlyJICpaDJ00Kmp1hrd0PYJjbDXoSHXgSDFaqTSM4jG+r7x/9mEuVhxIbr60kl5YWWNxMlSWFSYsumv9udwwoXMFhooQhswb4DpuIhdxmwD1g2+4HYQyFfEPywHqKPxRnM+COV4buCoXh8T/I7iMalkEfQfEwdpEwE6Mm9slsalldqIJ8ArUrHsDKQnup/dsnVUdyeUiIQLWRsM649iBOnb1dvD+0GmAVQps8rUoZwD5fPUaNmlwbVm52B+/x8iKcvkzWDshL/QdPesbepn/O7yHzJHE0m+Oh0T0og7cBRSkJsiolbPECsic8K9beEvh+e+2Id+OEUExUDKRrtX1MQTpymxpZLNOnZGsHePBJa1RXTbxTUI+eVMtd9Lzj1PXZc9xs39q1e3Xbitri0A4H/MiEG9bEw6kn/SQDqNwiBaK2kTMOArXdOx5nsL3fl1s/jqfN/YYnwWi71UNgTglRuuvkMfKjpzyVcE7KaTCFjHCzw=="
+                }
+              },
+              "description_text" : "### Elaborado por\n> **Nome**: Bruno Lopes\n\n> **Email**: bruno.lopes@unifor.br\n\n> **Criado em**: 16/10/2021\n\n\n### Exercício\nEscreva um programa em Kotlin que receba três números, calcule e mostre a multiplicação desses números.\n\nO código que representa a solução deve ser escrito na função **mul** presente no arquivo _Task.kt_.",
+              "description_format" : "MD",
+              "task_type" : "edu"
+            },
+            {
+              "id" : 1223402043,
+              "name" : "profbrunolopes-ex03",
+              "files" : {
+                "src/Task.kt" : {
+                  "name" : "src/Task.kt",
+                  "placeholders" : [
+                    {
+                      "offset" : 519,
+                      "length" : 32,
+                      "possible_answer" : "bHqdw/Si9vptZgT/0A5TuQ==",
+                      "placeholder_text" : "A solução deve ser escrita AQUI!"
+                    }
+                  ],
+                  "is_visible" : true,
+                  "text" : "bIyfvvNc8IypKWb5+nqs3TMtedqVmT3tYnIzBtZpnkBDvZPflEFZQVe4PifxZj9M+EsLWFamTVcpj3KVM7YD8UOtu6PWcm7ynlmVucLySTOIgctub972Fi9Cy+3qCLn9fc1PC5dWjzRsSr9j5Fh5mlwCo5xjGnwC0sy5fRCloDybO7kV1oQgwk1aFbm9Nt5uVfkTeiALYNrTOFhGhpu0vw+BIS1x4puH7vh1Okn7LZKTARPsHxFbvchOn2qpnYsGm3omgMJWkbZ5wrzub6OOX7cyfsQWZs9ou0wAGIl7W4UIkzh8TNMc5fCj6S8DNQj0EfSnZtYR74D8OwgN81jp82dAXPC1gR/oaS0BXRgXyTugu4KKl+AB+HpWCbK0Eht6CELECMxuGwC2d2Hos/suslMjJVWOKab5S20JbBbhCRKoBiRTm/LMIBGzkVdOS3rzM2aSrf9HjXwDHHOv473HAt+Xtky1j1tTRY8ULbvEAFIAJVNHGNowT1uU5NIvIzls2GpCUvIIKWSukXgl8OD8WIxF3TgsJcenLRerv895Y64PGQb9YMZaD+b8+ruFaJ9aY64RVC4WopZX5t3rAKZBsHGm0p5BLQOUQ25kkBTFIOPPIhYEmef9roVgoFwvsWOtuT3aT1Z/OAka5o+57yZiuIihYjDHpvK3UvWUvA2ijlpM+wziexEHDhh4nr0Zh+S/jAeKjQSntQQ3fZpmUXDHecNJ9YVUb/UWDubXtJlaXeD4NYZcHcGarsISx/LgO1JF"
+                },
+                "test/Tests.kt" : {
+                  "name" : "test/Tests.kt",
+                  "placeholders" : [ ],
+                  "is_visible" : false,
+                  "text" : "ITs8Nv8EH6QWJG5nufD7nCbrLPoZNTYAX8EbQHppKy+TR7uFhZF7JnSL5/nnFJtt2DnEXeDENor2f8PLqosVckenb+8qG8B9QbaS4GLPN5UIMiH/o130E5fIboStC9N/tfI3yyT0UVg+uHUhpMGoJoiDpZYYGC+q7071H3R1Vqk9Zr0pc+2j3Mhs5i1CWAmwLrJGyVPvRssKDYadT9cNYDpdeqvuZtm5Ugf6+shY6z7bZwPm+Tova7K1LPw1nGpAzvSFzHdZS8GHLud1PRxbMIy8P7FT+XJ8tY394aQi3/5mwGfekGg6yoWQ3vxKHh+n2Tn33cNgLnJb44sLOw47pNhwxYB9pJFJMlbZiym5YOTZX7Zb3rSWu0/miw/milNh2re4CeZpn3ZptXfI3iH5GnD28VBi2Bbmul/oyDjXNzK5vjHm8maUn1w/rCUaFQpa92HK4yVCNlKA2NM5EuQUX40dDriMu0T3/8v3i5agCkNjd/507r+ElfGtAmFSm9TWdcpznLd8QDh+pNY0EoLzMz40ZQQg0EYYT2A5cNn1aDakpjVG/idgkrCm1VOqZISvVKyIkvAXfh2l//meYYfdrDtgEHnjgUt+S6EVkkbnlTHIqa6VlugmWyJ3tt8PZZzG"
+                }
+              },
+              "description_text" : "### Elaborado por\n> **Nome**: Bruno Lopes\n\n> **Email**: bruno.lopes@unifor.br\n\n> **Criado em**: 16/10/2021\n\n\n### Exercício\nEscreva um programa em Kotlin que receba dois números inteiros, calcule e mostre a divisão inteira do primeiro pelo segundo. Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar com validações.\n\nO código que representa a solução deve ser escrito na função **div** presente no arquivo _Task.kt_.",
+              "description_format" : "MD",
+              "task_type" : "edu"
+            },
+            {
+              "id" : 1687996467,
+              "name" : "profbrunolopes-ex04",
+              "files" : {
+                "test/Tests.kt" : {
+                  "name" : "test/Tests.kt",
+                  "placeholders" : [ ],
+                  "is_visible" : false,
+                  "text" : "ITs8Nv8EH6QWJG5nufD7nCbrLPoZNTYAX8EbQHppKy+TR7uFhZF7JnSL5/nnFJtt2DnEXeDENor2f8PLqosVckenb+8qG8B9QbaS4GLPN5UiZ4JYkaKC9f4eerhq/s4dqfC2nLmBLfo26uJwZwL5E2dYrIbZEEHVUdKRhsh2OEY9CIjxtE7ufx+Oum4IEmPLqaS9E7hFPEZcTvUkFtM6EAil7i01eujf757ONQwq3EdVdY/Pi15oIohxP2Av2yJNZZeSYurcAXHBT9yuDItJioQaJPRFJd2pDCOPjm2MCrA3kPKnKuJFK7w3GQH1pX7L02GJglPYqFaaeeWeoBgaGYEiOs5A3i4tMYAZe2F9f1h8iNaNovXhPSpqOpZWCPsZE4SDcspx3KhltEnrBHpW+mQ58GTDRw8NJgiWH0NrgvwuPlG85xLdlNeVpIdy0HmSsgC2AkQ6MxZ7gU4BaOihvbtJ/qz+WJAYeVNuAKz3X9NoEdf7nYVjk6rJekdGs5mPJyuk+VqWzAH27Zi5Fyy0dq/YXd5P+4gcXHpgsEXa7AWOJX5v9XOcQ39JBtKGrBPhGiTtHCCIIlOoga1CqQLJcAlyYG+KJdNpM+UXo4EzsZB75Dh0CErQfnwu4PRWXyefWCHw3e/6tbS+L4lja9tvdDYoi7wuKWrTqOXkK2koD3J5rz4FkoREM7S8r/TbuZAvhUBFIwLJ2FiAcZrx/icpWP1LCgKAAKpsfl9rCXcQW73bjpGUXF252tn6tjkcM2u/pUiRpi3yqUWr3TZSKPDZsE3Z+SPnbGYXjqfInuFOE32JHBOiUjge2LIOpnUJIjeMJ+6ZxS9O9sZlIhWaLTK4zrvkdsw9HmYr9kHcOhdXv3pZZq0ycHRTVjRNrV3dVZ84Mly5hOA7N5OigfMJ26UwV+MIqRrz6s99vo+0nfjRiuMPOngXg1a2pnhk7R/H18zmDQvLqPvytLIFhDdjJdCCeXYmVygwycjax5MCbV2+DWY="
+                },
+                "src/Task.kt" : {
+                  "name" : "src/Task.kt",
+                  "placeholders" : [
+                    {
+                      "offset" : 552,
+                      "length" : 32,
+                      "possible_answer" : "uIj6PsU76QzFuyfw6gVy/ktwpQaSMYf4jNR+/E7JvIo=",
+                      "placeholder_text" : "A solução deve ser escrita AQUI!"
+                    }
+                  ],
+                  "is_visible" : true,
+                  "text" : "bIyfvvNc8IypKWb5+nqs3TMtedqVmT3tYnIzBtZpnkBDvZPflEFZQVe4PifxZj9M+EsLWFamTVcpj3KVM7YD8UOtu6PWcm7ynlmVucLySTOIgctub972Fi9Cy+3qCLn9fc1PC5dWjzRsSr9j5Fh5mlwCo5xjGnwC0sy5fRCloDybO7kV1oQgwk1aFbm9Nt5uVfkTeiALYNrTOFhGhpu0vw+BIS1x4puH7vh1Okn7LZKTARPsHxFbvchOn2qpnYsGm3omgMJWkbZ5wrzub6OOX7cyfsQWZs9ou0wAGIl7W4UIkzh8TNMc5fCj6S8DNQj0EfSnZtYR74D8OwgN81jp82dAXPC1gR/oaS0BXRgXyTugu4KKl+AB+HpWCbK0Eht6TVw2zmpcO/I5Qux8lQ8y1EXBwp6lvPEsYPdCQDRqhszu19FI2e0jYbGq9xWPdjQPfNQT13emCFX3ccqrd9iNABEUyCGwVPinSBXYFfRWgWWapByNzb2MWr9J78kpW171OFpwE/xBMASfGnxrM2RVexUl4aflac92PZPzUjm3zFgDc8q4pOm3g11jlrwzE8W3Y4bFn1evEhSrbIaGusKc3pkKf9cCX1+vnnuhpDvNmeytkEfsKFiSLMlJLeGtdPeTuX+2s6dSxXNfowQl6vfhI0VkKhMdZCFLMexdQty6NSuAoI0J5iV+WIm627OPtuDNLdR1/zg/y9qavtemtX/SRaYBzpT73Hd3deUfb7H6513Ykxuo6PpwIuFhS8Tm4WljdMHCv/wBSmJ79RiqrGZxP/yzm3B5qSxvKSHH6AX034k="
+                }
+              },
+              "description_text" : "### Elaborado por\n> **Nome**: Bruno Lopes\n\n> **Email**: bruno.lopes@unifor.br\n\n> **Criado em**: 16/10/2021\n\n\n### Exercício\nEscreva um programa em Kotlin que receba duas notas, calcule e mostre a média ponderada dessas notas, considerando peso 2 para a primeira e peso 3 para a segunda nota.\n\nO código que representa a solução deve ser escrito na função **mediaPonderada** presente no arquivo _Task.kt_.",
+              "description_format" : "MD",
+              "task_type" : "edu"
             }
           ],
           "type" : "lesson"

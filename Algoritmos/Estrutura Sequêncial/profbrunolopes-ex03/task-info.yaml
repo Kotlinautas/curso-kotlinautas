@@ -1,0 +1,10 @@
+type: edu
+files:
+- name: src/Task.kt
+  visible: true
+  placeholders:
+  - offset: 519
+    length: 12
+    placeholder_text: A solução deve ser escrita AQUI!
+- name: test/Tests.kt
+  visible: false
