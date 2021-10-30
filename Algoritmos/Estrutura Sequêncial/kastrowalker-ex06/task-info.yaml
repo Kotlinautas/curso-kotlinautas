@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 499
-    length: 513
+    length: 516
     placeholder_text: // Preencha essa função com sua solução
 - name: test/Tests.kt
   visible: false
