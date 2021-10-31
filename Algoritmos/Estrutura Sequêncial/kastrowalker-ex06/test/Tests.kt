@@ -26,4 +26,9 @@ class Test {
     fun testCalculaTempo05() {
         Assert.assertEquals("01:00:04", calculaTempo(3604))
     }
+
+    @Test
+    fun testCalculaTempo06() {
+        Assert.assertEquals("09:09:09", calculaTempo(32949))
+    }
 }

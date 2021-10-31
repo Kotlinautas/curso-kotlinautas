@@ -16,9 +16,9 @@ fun calculaTempo(tempoSegundos: Int): String {
     val tempoMinutos = restoTempo / 60;
     val tempoSegundos = restoTempo % 60;
 
-    val tempoHorasString = "${if (tempoHoras < 9) "0$tempoHoras" else tempoHoras }"
-    val tempoMinutosString = "${if (tempoMinutos < 9) "0$tempoMinutos" else tempoMinutos }"
-    val tempoSegundosString = "${if (tempoSegundos < 9) "0$tempoSegundos" else tempoSegundos }"
+    val tempoHorasString = "${if (tempoHoras < 10) "0$tempoHoras" else tempoHoras }"
+    val tempoMinutosString = "${if (tempoMinutos < 10) "0$tempoMinutos" else tempoMinutos }"
+    val tempoSegundosString = "${if (tempoSegundos < 10) "0$tempoSegundos" else tempoSegundos }"
 
     return "$tempoHorasString:$tempoMinutosString:$tempoSegundosString";
 }
